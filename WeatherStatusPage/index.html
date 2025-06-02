@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <meta charset ="utf-8">
+        <meta name = "viewport" content="width = device-width, initial-scale =1.0">   
+        <title>Hava Durum Gösterici </title>
+        <link rel ="stylesheet" href = "style.css">
+
+    </head>
+    <body>
+        <!--Ortalanmış bir kutu için.
+        İçinde hava durumu arama formu var.-->
+        <div class ="container">
+            <h1>Hava Durumu</h1>
+            <input type ="text" id ="cityInput" placeholder="Şehir ismi giriniz">
+            <!-- Butona tıklandığında getWeather() fonksiyonu çalışacak.-->
+            <button onclick="getWeather()">Hava Durumu Sonucu</button>
+            
+            <div id = "loading" style="display: none;">Yükleniyor</div> 
+            <div id ="weatherInfo"></div>
+            
+            </div>
+        </div>
+
+        <script src ="script.js"></script>
+
+    </body>
+    </html>

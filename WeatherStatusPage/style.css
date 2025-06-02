@@ -1,0 +1,77 @@
+/* Body kısmındaki bileşenlerin stili */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+/* Ana konteyner kutusunun stili */
+.container {
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    box-sizing: border-box;
+}
+
+/* En büyük başlığın stili */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+ /* Kullanıcının giriş yapacağı kutunun stili */
+input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 15px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+}
+
+/* Buttonun stili */ 
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 5px;
+}
+
+/*Butona basılınca üzerine gelindiğinde renk değişimini gerçekleştirir. */
+button:hover {
+    background-color: #45a049;
+}
+
+/*Yükleniyor mesajının stili */
+#loading {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
+
+/*Hava durumu bilgisini gösteren kutunun stili */
+#weatherInfo {
+    margin-top: 20px;
+}
+
+/*Hava durumu kutusunun başlığının stili */
+#weatherInfo h2 {
+    margin: 0;
+    font-size: 22px;
+}
+
+/* Hava durumu açıklamalarının yani p yazılarının stilidir */
+#weatherInfo p {
+    font-size: 18px;
+}
