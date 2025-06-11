@@ -18,6 +18,7 @@ header {
     height:200;
     text-align:center;
 }
+
 .menu {
   padding-top: 10px;
   max-width: 1200px;
@@ -28,6 +29,7 @@ header {
   justify-content: center;
    
 }
+
 .menu h2 {
   width: 100%;
   text-align: center;
@@ -41,7 +43,8 @@ header {
   padding-bottom: 8px;
     
 }
-.menu-item{
+
+.menu-item { 
   display: flex;
   align-items: center;
   background: white;
@@ -54,28 +57,27 @@ header {
   max-width: 500px;
 
 }
+
 .menu-item:hover {
   transform: scale(1.02);
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
     
 }
 
-
 .menu-item span {
   color: #d62828;
   font-weight: bold;
   font-size: 18px;
 }
+
 .menu-item img {
   margin-right: 15px;
   border-radius: 8px;
   object-fit: cover;
 }
 
-
 footer {
     text-align:center;
     color:coral
     padding:10px;
-
 }
