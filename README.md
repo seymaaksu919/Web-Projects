@@ -6,8 +6,8 @@ Projeler, kullanıcı arayüzü geliştirme, etkileşimli bileşenler oluşturma
 
 ## 🧰 Kullanılan Teknolojiler
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 
@@ -19,3 +19,22 @@ Projeler, kullanıcı arayüzü geliştirme, etkileşimli bileşenler oluşturma
 - **WeatherStatusPage**: Hava durumu bilgisini gösteren, API ile veri çeken bir uygulama.
 - **cafe-menu**: Basit bir menü tasarımı; HTML ve CSS ile yapılmış şık bir düzenleme örneği.
 
+# Web Projects
+
+This repository contains a collection of small-scale frontend web development projects. Each project is built using HTML, CSS, and JavaScript to practice and reinforce core web development concepts.
+
+The projects focus on user interface development, creating interactive components, and implementing simple user experience features.
+
+## 🧰 Technologies Used
+
+- HTML  
+- CSS  
+- JavaScript  
+
+## 📁 Project Folders
+
+- **ArkaplanRengideğiştirme**: A simple app that changes the background color randomly.
+- **CreateCounter**: A counter app that allows incrementing and decrementing values.
+- **KullanıcıBilgisiÇağırma**: An example project that fetches random user information using an API.
+- **WeatherStatusPage**: A weather app that displays current weather data by fetching it from an API.
+- **cafe-menu**: A clean and simple café menu layout built with HTML and CSS.
