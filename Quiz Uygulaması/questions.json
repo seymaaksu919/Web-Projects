@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Türkiye'nin başkenti neresidir?",
+    "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+    "correct": 1
+  },
+  
+  {
+    "question": "Türkiye'nin fındığı meşhur olan ili neresidir?",
+    "options": ["İstanbul", "Muş", "Amasya", "Giresun"],
+    "correct": 3
+  },
+
+  {
+    
+    "question": "Türkiye'nin en turistik ili neresidir?",
+    "options": ["Uşak", "Aydın", "Antalya", "Kilis"],
+    "correct": 1
+  },
+
+  {
+    "question": "Türkiye de bulunan Sümela Manastırı nerededir?",
+    "options": ["Trabzon", "Rize", "Kars", "Hatay"],
+    "correct": 0
+  }
+
+]
