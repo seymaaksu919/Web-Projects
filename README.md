@@ -22,6 +22,7 @@ Projeler, kullanıcı arayüzü geliştirme, etkileşimli bileşenler oluşturma
 - WeatherStatusPage: Hava durumu bilgisini gösteren, API ile veri çeken bir uygulama.  
 - cafe-menu: Basit bir menü tasarımı; HTML ve CSS ile yapılmış şık bir düzenleme örneği.  
 - DigitalClock: Dijital saat uygulaması; gerçek zamanlı saati HH:MM:SS formatında gösterir ve JavaScript ile güncellenir.  
+- Quiz Uygulaması: Soruları JSON dosyasından alan, seçenekli sınav sistemi. Doğru/yanlış kontrolü ve ileri butonuyla geçiş özellikleri içerir.
 
 ---
 
@@ -49,4 +50,7 @@ The projects focus on user interface development, creating interactive component
 - WeatherStatusPage: A weather app that displays current weather data by fetching it from an API.  
 - cafe-menu: A clean and simple café menu layout built with HTML and CSS.  
 - DigitalClock: A digital clock app that displays the current time in HH:MM:SS format, updated in real-time using JavaScript.  
+- Quiz Uygulaması: A multiple-choice quiz app that loads questions from a JSON file, checks answers, and lets users navigate with a "Next" button.
+
+  
 
